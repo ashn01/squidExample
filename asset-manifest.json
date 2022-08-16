@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/squidExample/static/css/main.f31a00cd.css",
+    "main.js": "/squidExample/static/js/main.058d456a.js",
+    "static/js/787.b7660d0f.chunk.js": "/squidExample/static/js/787.b7660d0f.chunk.js",
+    "index.html": "/squidExample/index.html",
+    "main.f31a00cd.css.map": "/squidExample/static/css/main.f31a00cd.css.map",
+    "main.058d456a.js.map": "/squidExample/static/js/main.058d456a.js.map",
+    "787.b7660d0f.chunk.js.map": "/squidExample/static/js/787.b7660d0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f31a00cd.css",
+    "static/js/main.058d456a.js"
+  ]
+}
